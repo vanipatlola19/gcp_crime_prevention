@@ -19,7 +19,7 @@ print("Spark Session Created Successfully")
 
 PROJECT_ID = "banking-crime-prevention"
 DATASET = "BankingCrimeFlow"
-BUCKET = " banking-crime-prevent-project-sample"
+BUCKET = "banking-crime-prevent-project-sample"
 
 # GCS FILE PATHS
 txn_path = f"gs://{BUCKET}/raw_files/Datafiles_transactions_raw.csv"
