@@ -16,7 +16,7 @@ from datetime import datetime
 PROJECT_ID = "banking-crimeprevention" 
 REGION = "us-central1"  
 CLUSTER_NAME = "banking-crimeflow-cluster"  # Change this to your desired cluster name
-COMPOSER_BUCKET = "us-central1-bankingproj-3b235843-bucket" ##CHANGE THIS TO YOUR COMPOSER BUCKET NAME
+COMPOSER_BUCKET = "us-central1-bankingproject-6905ce4a-bucket" ##CHANGE THIS TO YOUR COMPOSER BUCKET NAME
 
 CLUSTER_CONFIG = {
     "master_config": {
