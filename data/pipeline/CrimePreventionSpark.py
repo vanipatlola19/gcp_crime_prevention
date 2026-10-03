@@ -17,7 +17,7 @@ print("Spark Session Created Successfully")
 # CONFIGURATION
 # ============================================================
 
-PROJECT_ID = "banking-crimeprevention"
+PROJECT_ID = "banking-crime-prevention"
 DATASET = "BankingCrimeFlow"
 BUCKET = "banking_crime-prevent-project"
 
