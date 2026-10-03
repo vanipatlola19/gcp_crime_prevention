@@ -13,7 +13,7 @@ from datetime import datetime
 # GCP CONFIG
 # =========================================================
 
-PROJECT_ID = "banking-crimeprevention" 
+PROJECT_ID = "banking-crime-prevention" 
 REGION = "us-central1"  
 CLUSTER_NAME = "banking-crimeflow-cluster"  # Change this to your desired cluster name
 COMPOSER_BUCKET = "us-central1-bankingproject-6905ce4a-bucket" ##CHANGE THIS TO YOUR COMPOSER BUCKET NAME
